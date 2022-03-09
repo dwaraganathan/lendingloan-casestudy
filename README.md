@@ -1,6 +1,6 @@
-#this repo has the lending loan case study findings and it contains the following files\n
-DwaraganathanDK.ipynb\n
-DwaraganathanDK-LendingLoanCaseStudy.pptx\n
-Readme.md\n
+#this repo has the lending loan case study findings and it contains the following files<br />
+DwaraganathanDK.ipynb<br />
+DwaraganathanDK-LendingLoanCaseStudy.pptx<br />
+Readme.md<br />
 
-This case study has been executed by Dwaraganathan DK and Suganya Thirumurthy\n
+This case study has been executed by Dwaraganathan DK and Suganya Thirumurthy<br />
